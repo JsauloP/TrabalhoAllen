@@ -1,0 +1,105 @@
+<html lang="pt" class="translated-ltr"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>GOGO PARORANDIAS</title>
+
+  <!-- CSS  -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+</head>
+<body>
+
+<nav class="light-blue lighten-1" role="navigation">
+      <a href="#!" class="brand-logo">Potenza Design<i class="material-icons">free_breakfast</i></a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="badges.html"><i class="material-icons right">view_module</i>Home</a></li>
+		        <li><a href="badges.html"><i class="material-icons right">view_module</i>Preços</a></li>
+				        <li><a href="badges.html"><i class="material-icons right">view_module</i>Fale Conosco</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  </div>
+<div align="center" >
+<h4>Criação de Sites com o Melhor Custo / <br>
+Benefício do Brasil!
+Sucesso Total na Internet!<br>
+Criação de Sites a partir de R$ 299,00</h4>
+</div><br>
+
+
+
+  <div class="container">
+   <p>
+          <div aling="center" >
+            <img src="https://vignette.wikia.nocookie.net/brooklinninenine/images/f/fa/Andy-509.jpg/revision/latest?cb=20150818121837&path-prefix=pt-br"width="300" height="300" align="left">
+			<h5>Olá eu sou seu guia irei lhe explicar<br> como nosso site funciona, primeiramente <br> o nosso site fornece sites de acordo<br> com o seu investimento.<h5></p>
+
+
+    </div>
+	<div class="row">
+    <form class="col s12">
+	<p text-align="center">
+<h5>Solicite agora um Orçamento sem Compromisso</h5>
+</p>
+      <div class="row">
+        <div class="input-field col s6">
+          <i class="material-icons prefix">account_circle</i>
+          <input id="icon_prefix" type="text" class="validate">
+          <label for="icon_prefix">Nome</label>
+        </div>
+        <div class="input-field col s6">
+          <i class="material-icons prefix">mail</i>
+          <input id="icon_telephone" type="tel" class="validate">
+          <label for="icon_telephone">E-mail</label>
+        </div>
+        <div class="input-field col s6">
+          <i class="material-icons prefix">local_phone</i>
+          <input id="icon_prefix" type="text" class="validate">
+          <label for="icon_prefix">Telefone</label>
+        </div>
+        <div class="input-field col s6">
+          <i class="material-icons prefix">description</i>
+          <input id="icon_telephone" type="tel" class="validate">
+          <label for="icon_telephone">Mensagem</label>
+        </div>
+		 <button class="btn align="right" waves-effect waves-light" type="submit" name="action">Enviar
+    <i class="material-icons right">forward</i>
+  </button>
+      </div>
+    </form>
+  </div>
+
+    <br><br>
+  </div>
+
+
+
+
+  </body>
+
+  <footer class="page-footer blue">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Potenza Design</font></font></h5>
+          <p class="grey-text text-lighten-4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Com a segurança e credibilidade  
+de mais de 50 anos da Papelaria Potenza e 10 anos em Criação de Sites</font><font style="vertical-align: inherit;">Qualquer quantia ajudaria a apoiar e continuar o 
+desenvolvimento deste projeto e é muito apreciada.</font></font></p>
+
+
+        </div>
+        <div class="col l3 s12">
+          <h5 class="white-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Definições</font></font></h5>
+          <p>
+		  Criação de Sites a preços que cabem no seu bolso!!
+Sites de ótima qualidade ideal para seu negócio! Abaixo alguns exemplos: LINK
+          </p>
+        </div>
+        <div class="col l3 s12">
+          <h5 class="white-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Reputação</font></font></h5>
+		  <a class="white-text" href="http://www.mercadolivre.com.br/jm/profile?id=81337346&isMot=SR" target="	">MercadoLivre</a>
+		  </div>
+		  
+		  </html>
